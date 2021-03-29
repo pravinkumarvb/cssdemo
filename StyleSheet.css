@@ -1,0 +1,20 @@
+﻿body {
+    background-color:burlywood;
+    font-family:Calibri;
+    font-size:14pt;
+}
+#header
+{
+    /*id selector: defined with "#" prefix*/
+    letter-spacing:0.2em;
+    color:red;/*Text Colour*/
+    text-align:center;
+    border:1px solid red;/*width border_type border_color*/
+}
+.hightlight{
+    font-style:italic;
+    font-weight:bold;
+    text-decoration:underline;
+    background-color:yellow;
+    color:red;
+}
